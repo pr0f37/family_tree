@@ -6,6 +6,7 @@ authors = ["pr0f37 <adam.nowik@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+drawsvg = "^2.1.1"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.2"
