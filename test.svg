@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1000" height="1000" viewBox="0 0 1000 1000">
+<defs>
+</defs>
+<rect x="500" y="50" width="150" height="50" stroke-width="2" stroke="black" fill="white" />
+<text x="510" y="70" font-size="15"><tspan x="510" dy="0em">name: father, age: 35</tspan><tspan x="510" dy="1em">name: mother, age: 30</tspan></text>
+<rect x="670" y="50" width="150" height="50" stroke-width="2" stroke="black" fill="white" />
+<text x="680" y="70" font-size="15"><tspan x="680" dy="0em">name: child1, age: 10</tspan></text>
+<rect x="840" y="50" width="150" height="50" stroke-width="2" stroke="black" fill="white" />
+<text x="850" y="70" font-size="15"><tspan x="850" dy="0em">name: child3, age: 4</tspan></text>
+<rect x="840" y="100" width="150" height="50" stroke-width="2" stroke="black" fill="white" />
+<text x="850" y="120" font-size="15"><tspan x="850" dy="0em">name: child4, age: 4</tspan></text>
+<rect x="840" y="150" width="150" height="50" stroke-width="2" stroke="black" fill="white" />
+<text x="850" y="170" font-size="15"><tspan x="850" dy="0em">name: child5, age: 4</tspan></text>
+<rect x="670" y="100" width="150" height="50" stroke-width="2" stroke="black" fill="white" />
+<text x="680" y="120" font-size="15"><tspan x="680" dy="0em">name: child2, age: 8</tspan></text>
+</svg>

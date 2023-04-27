@@ -97,6 +97,22 @@ files = [
 ]
 
 [[package]]
+name = "drawsvg"
+version = "2.1.1"
+description = "A Python 3 library for programmatically generating SVG (vector) images and animations.  Drawsvg can also render to PNG, MP4, and display your drawings in Jupyter notebook and Jupyter lab."
+category = "main"
+optional = false
+python-versions = "*"
+files = [
+    {file = "drawsvg-2.1.1-py3-none-any.whl", hash = "sha256:2ba5c4ee7f6a89c26a3f29d7d65e139d2cdbe11671015fa6c9d9d943e8c18bf8"},
+]
+
+[package.extras]
+all = ["cairoSVG (>=2.3,<3.0)", "imageio (>=2.5,<3.0)", "imageio-ffmpeg (>=0.4,<1.0)", "numpy (>=1.16,<2.0)", "pwkit (>=1.0,<2.0)"]
+color = ["numpy (>=1.16,<2.0)", "pwkit (>=1.0,<2.0)"]
+raster = ["cairoSVG (>=2.3,<3.0)", "imageio (>=2.5,<3.0)", "imageio-ffmpeg (>=0.4,<1.0)", "numpy (>=1.16,<2.0)"]
+
+[[package]]
 name = "exceptiongroup"
 version = "1.1.1"
 description = "Backport of PEP 654 (exception groups)"
@@ -242,4 +258,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "c7098712668d602c910da332f017dc29473b889bd8c1bb6d9cde12306ca828e2"
+content-hash = "a28234c4c7aac91bd568810eac4d75fb0ff0857cbc5b19c6d1a93e5b155741f9"
